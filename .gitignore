@@ -1,0 +1,4 @@
+vendor
+composer.lock
+testing-private.key
+testing-public.key
